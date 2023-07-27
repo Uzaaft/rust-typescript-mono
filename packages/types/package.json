@@ -1,0 +1,12 @@
+{
+  "name": "@mono/types",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/types.ts",
+  "scripts": {
+    "build": "cargo build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
